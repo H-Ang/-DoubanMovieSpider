@@ -18,14 +18,14 @@ json =json.load(jsonText)
 接下来就用处理字典的方式来获取想要的信息。
 
 ### screenshorts
-![image](/doubanMovieSpider/screenshorts/first.png)
+![image](/screenshorts/first.png)
 
-![image](/doubanMovieSpider/screenshorts/second.png)
+![image](/screenshorts/second.png)
 
 ### 合成蒙太奇马赛克拼图
 拿到图片数据以后借助工具Foto-Mosaik-Edda，效果如下：
 
-![image](/doubanMovieSpider/screenshorts/output.jpg)
+![image](/screenshorts/output.jpg)
 
 ### 拓展
 json包中有几个常用但易混淆的方法：load(),loads()和dump(),dumps()
